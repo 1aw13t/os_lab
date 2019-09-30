@@ -1,2 +1,2 @@
 # OS LAB
-Contains files for OS lab
+Contains files for OS lab.
